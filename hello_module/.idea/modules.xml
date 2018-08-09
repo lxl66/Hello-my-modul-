@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Servlet/Servlet.iml" filepath="$PROJECT_DIR$/../Servlet/Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Servlet/Servlet.iml" filepath="$PROJECT_DIR$/../Servlet/Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dao/dao.iml" filepath="$PROJECT_DIR$/../dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../emtity/emtity.iml" filepath="$PROJECT_DIR$/../emtity/emtity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello_module.iml" filepath="$PROJECT_DIR$/hello_module.iml" />
+    </modules>
+  </component>
+</project>
